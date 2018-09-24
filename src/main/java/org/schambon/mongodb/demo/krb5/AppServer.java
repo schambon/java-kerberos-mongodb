@@ -1,4 +1,4 @@
-package com.mongodb.demo.krb5;
+package org.schambon.mongodb.demo.krb5;
 
 import com.mongodb.MongoClient;
 import com.mongodb.MongoClientOptions;

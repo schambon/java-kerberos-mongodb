@@ -54,7 +54,7 @@ def jarPackage(artifactName, artifactVersion) {
         manifest {
             attributes "Implementation-Title": "$className",
                     "Implementation-Version": "$version",
-                    "Main-Class": "com/mongodb/demo/krb5/$className"
+                    "Main-Class": "org/schambon/mongodb/demo/krb5/$className"
         }
     }
 }
